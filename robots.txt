@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jofoh.github.io/IrW/sitemap.IrW.gz
